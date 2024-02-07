@@ -1,0 +1,4 @@
+References:
+
+1. Crud Go website native : https://www.youtube.com/watch?v=YYjb_RszQYY
+2. Github https://github.com/tegarpratama/go-crud-web/blob/main/table.sql
